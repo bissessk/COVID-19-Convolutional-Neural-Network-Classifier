@@ -5,4 +5,4 @@ The positive cases are of patients diagonised with COVID. The negative cases are
 
 TensorFlow was utilized to build the Neural Network and process the images.
 
-**Image Dataset: **https://github.com/ieee8023/covid-chestxray-dataset
+**Image Dataset:** https://github.com/ieee8023/covid-chestxray-dataset
